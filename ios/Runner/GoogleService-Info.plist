@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139180777268-oe3991556uthoemg9conknvbh1jbnv14.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139180777268-oe3991556uthoemg9conknvbh1jbnv14</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>139180777268-chc94l711l0p79r8gogg7vma768eqlpm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbXLnGMalF14t3oQPE14yymR6MoDGscRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139180777268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.co.akachu.yuitasu</string>
+	<key>PROJECT_ID</key>
+	<string>patientregistrationcards-9a4cd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>patientregistrationcards-9a4cd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139180777268:ios:205bcda488700872578f61</string>
+	<key>DATABASE_URL</key>
+	<string>https://patientregistrationcards-9a4cd.firebaseio.com</string>
+</dict>
+</plist>

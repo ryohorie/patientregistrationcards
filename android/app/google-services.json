@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "139180777268",
+    "firebase_url": "https://patientregistrationcards-9a4cd.firebaseio.com",
+    "project_id": "patientregistrationcards-9a4cd",
+    "storage_bucket": "patientregistrationcards-9a4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139180777268:android:3e37308deb1b89aa578f61",
+        "android_client_info": {
+          "package_name": "jp.co.akachu.yuitasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139180777268-s4hcn1iagdp27ht5mk7up0g4li9as6qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9MiWuFRJvgw8OiIz0iJd_lcQgamWnpdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139180777268-s4hcn1iagdp27ht5mk7up0g4li9as6qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139180777268-oe3991556uthoemg9conknvbh1jbnv14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.akachu.yuitasu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139180777268:android:1db8e4557e6bfd04578f61",
+        "android_client_info": {
+          "package_name": "jp.genit.patientregistrationcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139180777268-1qrtf13cfct08vrs21t380b6m0vc7gcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.genit.patientregistrationcards",
+            "certificate_hash": "2294b7980ab7b6428b319b3d0391e4698097b367"
+          }
+        },
+        {
+          "client_id": "139180777268-q4ngvi42ql64qkndakjdus2sv92tsumf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.genit.patientregistrationcards",
+            "certificate_hash": "a375c962309e0abd175fabd377ad5d72f9a3154f"
+          }
+        },
+        {
+          "client_id": "139180777268-s4hcn1iagdp27ht5mk7up0g4li9as6qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9MiWuFRJvgw8OiIz0iJd_lcQgamWnpdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139180777268-s4hcn1iagdp27ht5mk7up0g4li9as6qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139180777268-oe3991556uthoemg9conknvbh1jbnv14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.akachu.yuitasu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
